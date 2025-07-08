@@ -35,4 +35,17 @@ A responsive Amazon homepage clone built using **HTML** and **CSS**. This projec
    ```bash
    git clone https://github.com/vanshmehandru/Amazon-Clone.git
 
+---
+
+## 🧑‍💻 Author
+
+**Vansh Mehandru**  
+GitHub: https://github.com/vanshmehandru
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
    
